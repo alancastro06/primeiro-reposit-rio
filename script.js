@@ -1,1 +1,1 @@
-alert("Olá mundo!")
+alert("Vai tricolor paulista")
